@@ -6,8 +6,12 @@ Zadanie 4 - w folderze invicta-zadanie/app/tests.
 
 # Uruchamianie i testowanie aplikacji
 
-Po pobraniu aplikacji, zaleca się utworzenie środowiska wirtualnego i uruchomienie go, po czym, w terminalu 
-(będąc w folderze /invicta-zadanie) wpisać komendę:
+Aplikację można pobrać np. wpisując w terminalu komendę:
+
+`git clone https://github.com/emge1/invicta-zadanie.git`
+
+Po pobraniu aplikacji, zaleca się otwarcie pobranego folderu w PyCharmie, tam utworzenie środowiska wirtualnego i uruchomienie 
+go, po czym, w terminalu (będąc w folderze /invicta-zadanie) wpisać komendę:
 
 `pip install -r requirements.txt`
 
